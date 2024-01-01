@@ -28,7 +28,7 @@ local tab1 = Window:MakeTab({
 
 local tab2 = Window:MakeTab({
  Name = "كيف تجيب مفتاح",
- Icon = "",
+ Icon = "t",
  PremiumOnly = false
 })
 
@@ -85,5 +85,3 @@ tab2:AddButton({
 })
 -- Script End
 OrionLib:Init()
-
-المصدر https://t.me/tScript9
