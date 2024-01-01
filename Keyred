@@ -3,7 +3,7 @@ local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shl
 
 
 -- Functions
-_G.Key = "5"
+_G.Key = "2024S"
 _G.KeyInput = "string"
 
 function DestroyGui()
